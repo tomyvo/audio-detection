@@ -4,6 +4,8 @@
 This project uses a neural network to **analyze personality traits from human speech**.  
 The model estimates the **Big Five personality dimensions** from an audio sample and interprets them in natural language.
 
+You can find the WebApp here: https://www.huggingface.co/spaces/tomyvo/soner-audio
+
 ---
 
 ## 🚀 Features
